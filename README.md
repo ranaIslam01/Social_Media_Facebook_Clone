@@ -11,7 +11,7 @@ A beautiful Facebook clone UI built using **React.js** and **Tailwind CSS**. Thi
 
 ## 🔗 Live Demo
 
-🌐 [Live Site]([https://your-live-site-link.vercel.app](https://social-media-facebook-clone-01.vercel.app/))
+🌐 [Live Site](https://social-media-facebook-clone-01.vercel.app/)
 
 ---
 
@@ -48,7 +48,7 @@ A beautiful Facebook clone UI built using **React.js** and **Tailwind CSS**. Thi
 ### 🌀 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/facebook-ui-clone.git
+git clone [(https://github.com/ranaIslam01/Social_Media_Facebook_Clone.git)]
 cd facebook-ui-clone
 npm install
 npm run dev
